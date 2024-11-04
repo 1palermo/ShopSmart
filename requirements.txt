@@ -1,0 +1,10 @@
+streamlit
+tensorflow
+numpy
+Pillow
+pandas
+PaddleOCR
+matplotlib
+dateparser
+paddlepaddle
+ultralytics
